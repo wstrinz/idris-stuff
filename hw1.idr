@@ -1,4 +1,5 @@
 -- Based on https://github.com/Haskallywags/school-of-haskell/tree/master/cis194/homework-1
+--   compare to, eg, https://github.com/wstrinz/school-of-haskell/blob/wstrinz_hw_1/cis194/homework-1/src/HW1/CreditCard.hs
 
 CCNumber : Type
 CCNumber = Integer
